@@ -1,7 +1,7 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : arezki
+Prénom : karim
 
 # 1.
 Citez deux avantages du PaaS sur le IaaS ?
